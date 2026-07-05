@@ -103,11 +103,11 @@ A real-time intelligent chat application featuring:
 
 ### 🚗 Automatic Number Plate Recognition
 
-A deep learning-based vehicle monitoring system featuring:
+A deep and Computer Vision learning-based vehicle number plate tracking and monitoring system featuring:
 
-- YOLOv8
-- OCR
-- DeepSORT
+- YOLOv8 fine tuned on Roboflow dataset with 99% accurracy
+- OCR for fast moving text recognition
+- DeepSORT tracking algorithm
 - Real-time Vehicle Tracking
 - Streamlit Dashboard
 
