@@ -1,10 +1,7 @@
-I am Disha Mittal, born in 2006, currently 20 years old, completing my final year in B.Tech in Computer Science and Engineering from MANIT Bhopal.
-Yes, my JEE Rank was 14,919 and Qualified for JEE Advanced too with a rank of 14,245 in 2023.
-
 # <h1 align="center">Hi 👋, I'm Disha Mittal</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • Full Stack Developer • AI/ML Enthusiast • Competitive Programmer
+Computer Science Engineering Student • Full Stack Developer • AI/ML/DL • Generative AI • Cloud and Distributed Systems
 </h3>
 
 <p align="center">
@@ -15,11 +12,24 @@ Computer Science Engineering Student • Full Stack Developer • AI/ML Enthusia
 
 # 💫 About Me
 
-I'm a Computer Science undergraduate who loves building software that solves real-world problems.
+I am Disha Mittal, born in 2006, currently 20 years old, completing my final year in B.Tech in Computer Science and Engineering from MANIT Bhopal.
+Yes, my JEE Rank was 14,919 and Qualified for JEE Advanced too with a rank of 14,245 in 2023.
 
-My interests span across **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **System Design**. I enjoy taking projects from idea to deployment while continuously learning modern technologies.
+*Certified Hackathon Fanatic*: Participated in over 50+ competitions. Still Going.
+You name it, I have participated in it.
 
-Alongside development, I actively practice **Data Structures & Algorithms** and enjoy participating in hackathons where I get the opportunity to build innovative solutions under pressure.
+My interests span across **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **System Design**.
+I enjoy building production ready full stack and AI integrated products that are scalable and solve real human problems acorss systems.
+
+Alongside development, I actively practice **Data Structures & Algorithms** and try to improve my ranking on codechef (hey copilot! insert sad emoji).
+
+*Proudly Completed 100 days of Machine Learning, 100 days of Deep Learning, Natural Language Processng and Generative AI from CampusX.*
+Constantly updating my ML and GenAI work profile.
+
+Currently doing my AWS Cloud Practioner Certification.
+
+I have strong CS fundamentals and have maintained a consistent 9+ above cgpa throughout all the semesters.
+*CGPA: 9.34*
 
 * 🎓 Computer Science Engineering Undergraduate
 * 💻 Passionate about Software Engineering
@@ -34,12 +44,17 @@ Alongside development, I actively practice **Data Structures & Algorithms** and 
 # 🏆 Achievements
 
 🥇 Winner — CyberShield National Cybersecurity Hackathon
+-Conducted by Madhya Pradesh Police, State Bank of India and ClearTrail Technologies
 
-🏅 National Finalist — Department of Telecommunications 5G Hackathon
+🏅 National Semi-Finalist — 5G Hackathon (propoal selected among 10,000+ applicants)
+-Conducted by Department of Telecommunications, Ministry of Communication
 
 🥈 Finalist — Gujarat RoboFest 4.0
+-Conducted by Department of Science and Technology and Government of Gujarat.
 
 🚀 Finalist — Oodo 24-Hour Full Stack Hackathon
+🚀 Finalist — HackVega 2.0 Hackathon
+🚀 Finalist — Manthan 1.0 (TechnoSearch, NIT Bhopal)
 
 💻 Solved 400+ Problems on LeetCode
 
@@ -47,24 +62,22 @@ Alongside development, I actively practice **Data Structures & Algorithms** and 
 
 # 🚀 Featured Projects
 
-## 🏟 QuickCourt
-
-A MERN-based sports facility booking platform with:
+## 🏟 QuickCourt (If you are a turf owner, you will like this!)
+A MERN-based sports facility booking platform (to book turfs for playing cricket obv) with:
 
 * Secure Authentication
 * Real-Time Booking
 * Email Notifications
 * Payment Integration
 * Admin Dashboard
+* Customer Side and Ownwer Side Customizable Interfaces
 
 **Tech Stack**
-
-React • Node.js • Express • MongoDB • Tailwind CSS
+React • Node.js • Express • MongoDB • Tailwind CSS • Stripe • AWS(Cloud - EC2/SES)
 
 ---
 
 ## 🤖 AI Chat Moderation Platform
-
 Real-time intelligent chat application capable of
 
 * Toxicity Detection
@@ -72,15 +85,14 @@ Real-time intelligent chat application capable of
 * Live Chat
 * Admin Analytics Dashboard
 * Real-Time Socket Communication
+PS: It corrects you before you send an ungly message to your friend or boss. 😰
 
 **Tech Stack**
-
 React • FastAPI • Node.js • MongoDB • Socket.IO • Transformers • Detoxify • Groq
 
 ---
 
 ## 🚗 Automatic Number Plate Recognition
-
 Deep Learning based vehicle monitoring system using
 
 * YOLOv8
@@ -88,18 +100,6 @@ Deep Learning based vehicle monitoring system using
 * DeepSORT
 * Real-time Tracking
 * Streamlit Dashboard
-
----
-
-## 🛰 AI OSINT Dashboard
-
-An AI-powered dashboard for analysing coordinated online narratives using
-
-* LLMs
-* NLP
-* React
-* Python
-* Data Visualization
 
 ---
 
@@ -145,9 +145,9 @@ TensorFlow • PyTorch • LangChain • ChromaDB • HuggingFace • YOLOv8 •
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dishamittalnitb&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishamittalnitb&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -163,7 +163,7 @@ TensorFlow • PyTorch • LangChain • ChromaDB • HuggingFace • YOLOv8 •
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dishamittalnitb&theme=react-dark"/>
 
 </p>
 
@@ -173,35 +173,22 @@ TensorFlow • PyTorch • LangChain • ChromaDB • HuggingFace • YOLOv8 •
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/disha-mittal-030a69280">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dishamittalnitb@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/dishamittalnitb">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/dishamittalnitb">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -211,7 +198,7 @@ TensorFlow • PyTorch • LangChain • ChromaDB • HuggingFace • YOLOv8 •
 
 <p align="center">
 
-> *"The best way to predict the future is to build it."*
+> *"Dream. Design. Develop. Deliver."*
 
 </p>
 
