@@ -200,9 +200,7 @@ A deep learning-based vehicle monitoring system featuring:
 <h2 align="center">💭 Quote</h2>
 
 <p align="center">
-
-> **"Turning ideas into code, and code into impact."**
-
+  <em>"Mistakes are proof that you are trying."</em>
 </p>
 
 ---
